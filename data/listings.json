@@ -1,0 +1,70 @@
+[
+  {
+    "id": "yaafour-office-100m2",
+    "status": "available",
+    "propertyType": "office",
+    "dealType": "rent",
+    "title": {
+      "ar": "مكتب للإيجار 100م² في يعفور ريف دمشق فرصة مميزة",
+      "en": "100 m² office for rent in Yaafour, Rif Dimashq (Damascus countryside), Syria"
+    },
+    "description": {
+      "ar": "مكتب للإيجار بمساحة 100 م² (المساحة الصافية 100 م²) في يعفور، منطقة قطنا، ريف دمشق. المكتب على العضم، فيمكن تجهيزه وإكساؤه حسب نشاط المستأجر. العرض من المالك مباشرة دون وسيط، والسعر 2,500 دولار أمريكي. للمعاينة والاستفسار: هاتف وواتساب ‎+963 932 318 088.",
+      "en": "A 100 m² office (100 m² net) for rent in Yaafour, Qatana district, Rif Dimashq (Damascus countryside), Syria. The space is a bare shell (\"على العضم\"), so the tenant can fit it out to suit their business. Offered directly by the owner, no agent. Price: 2,500 USD. For viewings and questions: phone / WhatsApp +963 932 318 088."
+    },
+    "price": {
+      "amount": 2500,
+      "currency": "USD",
+      "period": null
+    },
+    "areaM2": 100,
+    "netAreaM2": 100,
+    "finishing": {
+      "ar": "على العضم",
+      "en": "Bare shell, not fitted out"
+    },
+    "location": {
+      "locality": {
+        "ar": "يعفور",
+        "en": "Yaafour",
+        "aliases": ["Yafour", "Yaafur", "Yafur", "Yaafor", "Yafor", "Ya'fur", "Jafur"]
+      },
+      "district": {
+        "ar": "قطنا",
+        "en": "Qatana",
+        "aliases": ["Katana", "Qatanah"]
+      },
+      "region": {
+        "ar": "ريف دمشق",
+        "en": "Rif Dimashq",
+        "aliases": ["Damascus countryside", "Rural Damascus", "Rif Damascus", "Damascus", "دمشق", "الشام"]
+      },
+      "country": {
+        "ar": "سوريا",
+        "en": "Syria",
+        "aliases": ["سورية"]
+      }
+    },
+    "contact": {
+      "role": "owner",
+      "name": "محمد وليد معتصم منور",
+      "phone": "+963932318088",
+      "whatsapp": "+963932318088"
+    },
+    "images": [
+      "/images/office-1.webp",
+      "/images/office-2.webp",
+      "/images/office-3.webp",
+      "/images/office-4.webp",
+      "/images/office-5.webp"
+    ],
+    "sources": [
+      {
+        "name": "Doushesh",
+        "url": "https://doushesh.com/listing/mktb-llaygar-100m2-fy-yaafor-ryf-dmshk-frs-mmyz-133765"
+      }
+    ],
+    "datePosted": "2026-10-17",
+    "updatedAt": "2026-10-17"
+  }
+]
